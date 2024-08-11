@@ -38,4 +38,4 @@ Regularization and symmetry are evaluated based on the number of regular geometr
 ## Contributors
 - **Harshita roonwal**: [GitHub Profile](https://github.com/harshita9104)
 - **Ayush rakesh** [Github Profile](https://github.com/ayushrakesh)
-- - **Ayush jha** [Github Profile](https://github.com/)
+- **Ayush jha** [Github Profile](https://github.com/jhaayushofficial)
