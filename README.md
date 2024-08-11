@@ -36,5 +36,6 @@ Develop algorithms to seamlessly complete 2D curves that have gaps due to occlus
 Regularization and symmetry are evaluated based on the number of regular geometric shapes and symmetry detected.To ensure accurate curve completion, rasterization techniques are applied to handle occlusion.
 
 ## Contributors
-- **Sahil Jain**: [GitHub Profile](https://github.com/MegaBeing)
-- **Jahnvi Sahni** [Github Profile](https://github.com/jahnvisahni31)
+- **Harshita roonwal**: [GitHub Profile](https://github.com/harshita9104)
+- **Ayush rakesh** [Github Profile](https://github.com/ayushrakesh)
+- - **Ayush jha** [Github Profile](https://github.com/)
